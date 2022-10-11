@@ -108,11 +108,12 @@ body{
 #lin{
 	height: 100px;
 	width: 100px;
+	border-radius: 10px;
 }
 
 #fb{
-	height: 90px;
-	width: 150px;
+	height: 120px;
+	width: 200px;
 }
 
 .card{
@@ -122,4 +123,14 @@ body{
 
 #contactme{
 	color: white;
+}
+
+footer{
+	font-size: 5px;
+	width: 100%;
+	height: auto;
+	background-color: #3d3d3d;
+	text-align: center;
+	padding-top: 0.8rem;
+	padding-bottom: 0.8rem;
 }
